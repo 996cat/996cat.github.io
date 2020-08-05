@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>996·喵园</title>
+        <link>http://996.cat</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Wed, 05 Aug 2020 14:24:27 +0800</pubDate>
+        <lastBuildDate>Wed, 05 Aug 2020 14:24:27 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://996.cat/2020/08/05/hello-world/</guid>
+            <title>Hello World</title>
+            <link>http://996.cat/2020/08/05/hello-world/</link>
+            <pubDate>Wed, 05 Aug 2020 14:24:27 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;开业准备中&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#开业准备中&#34;&gt;#&lt;/a&gt; 开业准备中&lt;/h2&gt;
+&lt;h3 id=&#34;首页筹备组上线&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#首页筹备组上线&#34;&gt;#&lt;/a&gt; 首页筹备组上线&lt;/h3&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

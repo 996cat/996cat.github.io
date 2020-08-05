@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://996.cat</id>
+    <title>996·喵园</title>
+    <link href="http://996.cat" />
+    <updated>2020-08-05T06:24:27.089Z</updated>
+    <entry>
+        <id>http://996.cat/2020/08/05/hello-world/</id>
+        <title>Hello World</title>
+        <link rel="alternate" href="http://996.cat/2020/08/05/hello-world/"/>
+        <content type="html">&lt;h2 id=&#34;开业准备中&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#开业准备中&#34;&gt;#&lt;/a&gt; 开业准备中&lt;/h2&gt;
+&lt;h3 id=&#34;首页筹备组上线&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#首页筹备组上线&#34;&gt;#&lt;/a&gt; 首页筹备组上线&lt;/h3&gt;
+</content>
+        <updated>2020-08-05T06:24:27.089Z</updated>
+    </entry>
+</feed>

@@ -4,11 +4,11 @@
 
 # Site
 title: 996·喵园
-subtitle: ''
+subtitle: '追攀更觉相逢晚，谈笑难忘欲别前。'
 description: ''
 keywords:
 author: 996·喵园
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: shoka
+theme: hexo-theme-nexmoe
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

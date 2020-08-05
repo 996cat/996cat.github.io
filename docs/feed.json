@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "996·喵园",
+    "description": "",
+    "home_page_url": "http://996.cat",
+    "items": [
+        {
+            "id": "http://996.cat/2020/08/05/hello-world/",
+            "url": "http://996.cat/2020/08/05/hello-world/",
+            "title": "Hello World",
+            "date_published": "2020-08-05T06:24:27.089Z",
+            "content_html": "<h2 id=\"开业准备中\"><a class=\"markdownIt-Anchor\" href=\"#开业准备中\">#</a> 开业准备中</h2>\n<h3 id=\"首页筹备组上线\"><a class=\"markdownIt-Anchor\" href=\"#首页筹备组上线\">#</a> 首页筹备组上线</h3>\n",
+            "tags": []
+        }
+    ]
+}
