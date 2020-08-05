@@ -1,3 +1,6 @@
+var lang = navigator.languages;
+if(lang.indexOf("ca") != -1) location ="https://www.ub.edu/web/portal/ca/";
+
 const getRealPath = (pathname, desc = false) => {
   if (!pathname) {
     pathname = window.location.pathname;
